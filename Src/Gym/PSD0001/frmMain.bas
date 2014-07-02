@@ -1,3 +1,2 @@
-共通バグの修正 #1
-共通バグの修正
+ty_develop add function 7/2 17:09
 first be
